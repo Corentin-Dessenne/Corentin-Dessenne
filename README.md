@@ -3,7 +3,7 @@
 ## I'm a fourth-year engineering student from ISEN Lille, always trying to learn new things!
 
 - 🔭 I’m currently working on random projects so I can learn Python
-- 🌱 I’m currently C# !
+- 🌱 I’m currently learning C# !
 - 📫 How to reach me: corentin.dessenne@proton.me
 
 ### Connect with me !
