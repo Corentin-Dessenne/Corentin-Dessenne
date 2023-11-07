@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Corentin !
 
-## I'm a fourth-year engineering student from ISEN Lille, specializing in cybersecurity and business engineering!
+## I'm a fifth-year engineering student from ISEN Lille, specializing in cybersecurity and business engineering!
 
 - 🔭 I’m currently working on multiple projects
 - 🌱 I’m currently learning AWS tools and technologies !
